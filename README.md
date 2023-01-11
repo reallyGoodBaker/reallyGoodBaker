@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-stats.rgb39.top/api/top-langs/?username=reallyGoodBaker&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats.rgb39.top/api/top-langs/?username=reallyGoodBaker&theme=dark&type=impact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-stats.rgb39.top/api?username=reallyGoodBaker&theme=dark)
 
